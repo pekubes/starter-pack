@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["../src/ts/main.ts"],
+  "sourcesContent": ["document.addEventListener('DOMContentLoaded', () => {\n    console.log('JavaScript is loaded and running!');\n  });\n  "],
+  "mappings": "mBAAA,SAAS,iBAAiB,mBAAoB,IAAM,CAChD,QAAQ,IAAI,mCAAmC,CACjD,CAAC",
+  "names": []
+}
